@@ -1,0 +1,12 @@
+Build.PL
+lib/Alien/SaleaeLogic.pm
+LICENSE
+MANIFEST			This list of files
+MANIFEST.SKIP
+META.json
+META.yml
+sdk/darwin.tar.gz
+sdk/linux.tar.gz
+sdk/linux64.tar.gz
+sdk/mswin32.tar.gz
+t/00_use.t
